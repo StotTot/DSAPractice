@@ -1,0 +1,15 @@
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\bin\Debug\net7.0\app.exe
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\bin\Debug\net7.0\app.deps.json
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\bin\Debug\net7.0\app.runtimeconfig.json
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\bin\Debug\net7.0\app.dll
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\bin\Debug\net7.0\app.pdb
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\obj\Debug\net7.0\app.dll
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\obj\Debug\net7.0\refint\app.dll
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\obj\Debug\net7.0\app.pdb
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+Y:\home\moist\documents\projects\DSA_practice\BinarySearch\cs\app\obj\Debug\net7.0\ref\app.dll
